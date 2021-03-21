@@ -17,6 +17,6 @@ HTML/CSS/Javascript, ReactJS, Redux
 y en backend tecnologias como
 NodeJS, ExpressJS, Passport, Sequelize, PostgreSQL, MySQL
 
-- 🔭 Actualmente estoy buscando mi primera experiencia como Desarrollador Fronted o FullStack
+- 🔭 Actualmente estoy buscando mi primera experiencia como Desarrollador Front-End o FullStack
 - ⚡ Estoy buscando en colaborar en cualquier tipo de proyecto que me pueda ayudar a crecer, como tambien poner en practica mis conocimientos
 - 📫 Me puedes contactar por Email: fer.ald87@gmail.com | LinkedIn: https://www.linkedin.com/in/fernandoaldama-fsd/
