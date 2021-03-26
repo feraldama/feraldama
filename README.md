@@ -21,4 +21,4 @@ NodeJS, ExpressJS, Passport, Sequelize, PostgreSQL, MySQL
 - ✉️ Email: fer.ald87@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/fernandoaldama-fsd/
 - 💻 [Más sobre mi](https://www.tecnovate.com.py/FerAldama)
-![alt text](http://www.tecnovate.com.py/devBank.com)
+![alt text](https://www.tecnovate.com.py/devBank.png)
