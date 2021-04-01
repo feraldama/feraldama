@@ -19,5 +19,5 @@ NodeJS, ExpressJS, Passport, Sequelize, PostgreSQL, MySQL
 
 - 🔎 Estoy buscando en colaborar en cualquier tipo de proyecto que me pueda ayudar a crecer, como tambien poner en practica mis conocimientos
 - ✉️ Email: fer.ald87@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/fernandoaldama-fsd/
+- 🔗 LinkedIn: https://www.linkedin.com/in/feraldama/
 - 💻 [Más sobre mi](https://www.tecnovate.com.py/FerAldama)
