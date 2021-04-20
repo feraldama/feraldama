@@ -17,6 +17,15 @@ HTML/CSS/Javascript, ReactJS, Redux
 y en backend tecnologias como
 NodeJS, ExpressJS, Passport, Sequelize, PostgreSQL, MySQL
 
+💡 Protectos que he realizado:
+[ODONTO HENRY](https://github.com/feraldama/ecommerce)
+Un Ecommerce pensado para una tienda odontológica que quiere poder exhibir y comercializar sus insumos y productos odontológicos.
+
+[DEV BANK](https://github.com/feraldama/henryBank)
+Un banco digital en una aplicacion movil con las funcionalidades que un banco debe ofrecer.
+
+📌 Ambos proyectos los encontraras pineados en esta misma sección! 📌
+
 - 🔎 Estoy buscando en colaborar en cualquier tipo de proyecto que me pueda ayudar a crecer, como tambien poner en practica mis conocimientos
 - ✉️ Email: fer.ald87@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/feraldama/
