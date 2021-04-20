@@ -17,7 +17,7 @@ HTML/CSS/Javascript, ReactJS, Redux
 y en backend tecnologias como
 NodeJS, ExpressJS, Passport, Sequelize, PostgreSQL, MySQL
 
-💡 Proyectos que he realizado:
+# 💡 Proyectos que he realizado:
 
 - [ODONTO HENRY](https://github.com/feraldama/ecommerce)
 
