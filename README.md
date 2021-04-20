@@ -27,7 +27,7 @@ Un Ecommerce pensado para una tienda odontológica que quiere poder exhibir y co
 
 Un banco digital en una aplicacion movil con las funcionalidades que un banco debe ofrecer.
 
-📌 Ambos proyectos los encontraras pineados en esta misma sección! 📌
+###### 📌 Ambos proyectos los encontraras pineados en esta misma sección! 📌
 
 - 🔎 Estoy buscando en colaborar en cualquier tipo de proyecto que me pueda ayudar a crecer, como tambien poner en practica mis conocimientos
 - ✉️ Email: fer.ald87@gmail.com
