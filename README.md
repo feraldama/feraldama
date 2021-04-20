@@ -17,12 +17,14 @@ HTML/CSS/Javascript, ReactJS, Redux
 y en backend tecnologias como
 NodeJS, ExpressJS, Passport, Sequelize, PostgreSQL, MySQL
 
-💡 # Proyectos que he realizado
+💡 Proyectos que he realizado:
 
-[ODONTO HENRY](https://github.com/feraldama/ecommerce)
+- [ODONTO HENRY](https://github.com/feraldama/ecommerce)
+
 Un Ecommerce pensado para una tienda odontológica que quiere poder exhibir y comercializar sus insumos y productos odontológicos.
 
-[DEV BANK](https://github.com/feraldama/henryBank)
+- [DEV BANK](https://github.com/feraldama/henryBank)
+
 Un banco digital en una aplicacion movil con las funcionalidades que un banco debe ofrecer.
 
 📌 Ambos proyectos los encontraras pineados en esta misma sección! 📌
